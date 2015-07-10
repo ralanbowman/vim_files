@@ -32,9 +32,6 @@ set softtabstop=2
 let mapleader=","
 set t_Co=256
 
-"====[json-vim double quote conceal off]====
-let g:vim_json_syntax_conceal =0
-
 "====[ Listtrans.vim nmap mappings ]========================
 nmap  ;l   :call ListTrans_toggle_format()<CR>
 vmap  ;l   :call ListTrans_toggle_format('visual')<CR>
@@ -57,9 +54,6 @@ set background=dark
 
 " Add [text](#)<two spaces> to each line
 let @t='I[A](#)  '
-
-" Add two non-breaking spaces to the front of the line
-let @i='I&nbsp; &nbsp; '  
 
 " Remove search highlighting
 " :map <F3> :nohl<CR>

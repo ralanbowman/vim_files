@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/alanbowman/Desktop/eApps-docs/misc/sample/hello/WEB-INF'
+let g:netrw_dirhist_2='/Users/alanbowman/Desktop/eApps-docs/ISPmgr5Docs/Portal-ISPmgr/IPManagement'
+let g:netrw_dirhist_3='/Users/alanbowman/Desktop/eApps-docs/WebminUserGuides/JBoss5/jboss_install'
