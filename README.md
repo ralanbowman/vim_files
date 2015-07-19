@@ -3,7 +3,3 @@ echo "runtime vimrc" > .vimrc
 
 Actual .vimrc file is at ~/.vim/vimrc 
 
-| Table Header 1 | Table Header 2 |
-|----------------|----------------|
-| Table Data 1   | Table Data 2   |
-| Table Data 3   | Table Data 4   |
