@@ -1,4 +1,20 @@
 <!-- This is from Peter Gruenbaum's Udemy API course -->
+<style type="text/css">
+body {font-size: 1em; font-family: Helvetica, Arial, sans-serif;}
+h1, h2, h3, h4 {font-family: Helvetica, Arial, sans-serif; font-style: normal;}
+h1 {font-size: 180%; font-weight: bold;}
+h2 {font-size: 160%; font-weight:bold;}
+h3 {font-size: 120%; font-weight:bold; color:#4E84C4;}
+h4 {font-size: 110%; font-weight:bold;}
+table, th, td { border: 1px solid black; }
+table { border-collapse: collapse; }
+th, td { padding: 5px; text-align: left; }
+tr:nth-child(even) {background-color: #f2f2f2}
+th { background-color: #c0c0c0; color: black; }
+</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</meta></style>
 
 ## Upload a Sound File
 
